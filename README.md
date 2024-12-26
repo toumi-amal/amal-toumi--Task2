@@ -10,7 +10,7 @@ This project is a basic FAQ retrieval system that utilizes a pre-trained machine
 First, clone this repository to your local machine using the following command:
 
    
-   git clone https://github.com/your-username/faq-retrieval.git
+   git clone https://github.com/toumi-amal/amal-toumi--Task2.git
    
    cd faq-retrieval
    
