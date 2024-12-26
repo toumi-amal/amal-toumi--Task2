@@ -1,3 +1,5 @@
 pandas 
 sentence-transformers==3.2.1
 scikit-learn
+langchain==0.0.225
+streamlit
