@@ -10,14 +10,13 @@ This project is a basic FAQ retrieval system that utilizes a pre-trained machine
    First, clone this repository to your local machine using the following command:
 
    
-   git clone https://github.com/your-username/faq-retrieval.git
-   cd faq-retrieval
-2. **Install Dependencies**
+      git clone https://github.com/your-username/faq-retrieval.git
+   
+      cd faq-retrieval
+3. **Install Dependencies**
 
 Install the required dependencies from the requirements.txt file using pip:
-
-
-pip install -r requirements.txt
+  pip install -r requirements.txt
 This will install all the necessary packages, such as streamlit, sentence-transformers, and others that are required to run the app.
 
 3. **Run the Streamlit App**
