@@ -3,7 +3,7 @@ from sentence_transformers import SentenceTransformer
 from langchain.embeddings import HuggingFaceEmbeddings
 import pandas as pd
 
-data = pd.read_csv("Python FAQ Dataset.csv", encoding="ISO-8859-1")
+data = pd.read_csv("unique_questions.csv", encoding="ISO-8859-1")
 def find_similar_question(example_question):
     model=HuggingFaceEmbeddings(model_name="sentence-transformers/paraphrase-mpnet-base-v2")
     faq_questions = data["Questions"].tolist()
