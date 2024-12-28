@@ -28,7 +28,7 @@ Once all dependencies are installed, you can run the Streamlit app with the foll
 
 streamlit run app.py
 
-![Screenshot of the Streamlit App](images/Capture.png)
+![Screenshot of the Streamlit App](images/Capture.png) 
 
 This will launch the app in your default web browser.
 
