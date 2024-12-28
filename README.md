@@ -27,7 +27,8 @@ This will install all the necessary packages, such as streamlit, sentence-transf
 Once all dependencies are installed, you can run the Streamlit app with the following command:
 
 streamlit run app.py
-!(images/Capture%20d'écran%202024-12-28%20123604.png)
+
+![Screenshot of the Streamlit App](images/Capture_decran_2024-12-28_123604.png)
 
 This will launch the app in your default web browser.
 
