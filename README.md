@@ -12,7 +12,7 @@ First, clone this repository to your local machine using the following command:
    
    git clone https://github.com/toumi-amal/amal-toumi--Task2.git
    
-   cd faq-retrieval
+   cd amal-toumi--Task2
    
 2. **Install Dependencies**
 
