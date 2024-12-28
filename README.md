@@ -28,8 +28,6 @@ Once all dependencies are installed, you can run the Streamlit app with the foll
 
 streamlit run app.py
 
-![Screenshot of the Streamlit App](images/Capture.png) 
-
 This will launch the app in your default web browser.
 
 After the app is running, you can type a question into the input field. The app will retrieve the most similar FAQ from the dataset and display the corresponding answer.
